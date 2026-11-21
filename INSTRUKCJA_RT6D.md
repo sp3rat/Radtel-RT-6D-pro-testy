@@ -33,10 +33,10 @@
 ## 3. Procedura ręczna krok po kroku (dla nowych aktualizacji)
 
 ### Krok 1: Wypakowanie nowego firmware'u z pliku `.exe` / `.7zip`
-1. Umieść pobrany plik aktualizacyjny w katalogu `/home/sp3rat/Dokumenty/Radio/RT-6D_PRO/`.
+1. Umieść pobrany plik aktualizacyjny w katalogu `/home/xxxx/RT-6D_PRO/`.
 2. Uruchom ekstraktor:
    ```bash
-   cd /home/sp3rat/Dokumenty/Radio/RT-6D_PRO/
+   cd /home/xxxx/RT-6D_PRO/
    python3 ekstraktor_fw.py Nazwa_Nowego_Pliku.exe
    ```
    *(W wyniku powstaną pliki `Nazwa_Nowego_Pliku.bin` oraz `Nazwa_Nowego_Pliku.hex`).*
