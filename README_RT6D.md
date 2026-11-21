@@ -33,10 +33,10 @@
 ## 3. Manual Step-by-Step Procedure (For Future Updates)
 
 ### Step 1: Extract Clean Firmware from `.exe` / `.7zip`
-1. Place the downloaded update file into `/home/sp3rat/Dokumenty/Radio/RT-6D_PRO/`.
+1. Place the downloaded update file into `/home/xxxx/Radio/RT-6D_PRO/`.
 2. Run the extractor script:
    ```bash
-   cd /home/sp3rat/Dokumenty/Radio/RT-6D_PRO/
+   cd /home/xxxx/RT-6D_PRO/
    python3 ekstraktor_fw.py New_Update_File.exe
    ```
    *(This outputs `New_Update_File.bin` and `New_Update_File.hex`).*
