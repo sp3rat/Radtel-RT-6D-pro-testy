@@ -1,0 +1,11 @@
+Podłączyłem zewnętrzną baterię 3V do podtrzymania pamięci GPS-a.
+Teraz GPS bardzo szybko łapie FIX (ok 5s) oraz zegar jest zawsze zgodny z aktualnym czasem.
+Niestety GPS musi być włączony w opcjach menu.
+Użyłem małej baterii CR1620. Ukryłem ją pod LCD.
+
+I connected an external 3V battery to support the GPS memory. 
+Now the GPS quickly catches the FIX (about 5 seconds) and the clock always matches the current time.
+Unfortunately, GPS must be enabled in the menu options. 
+I used a small CR1620 battery. 
+I hid it under the LCD.
+
